@@ -2,7 +2,7 @@
 Multi-label text classification
 
 
-In this project, we want to classify input samples of the Ronash dataset into 20 categories via its title, vendor, and tags. Click on the below link and enjoy!
+In this project, we want to classify input samples of the Ronash dataset into 20 categories via its title, vendor, and tags.
 ---
 
 In this notebook, I present the updated version of the multi-label text classification model created by Farakh Karimi. The original model achieved an accuracy of 81.21% and a loss of 0.8373. In the updated version, the following changes have been made to improve the model performance:
